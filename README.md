@@ -4,6 +4,8 @@
 
 AI Learning Buddy – Sanjana is an interactive educational web application designed to help students learn **Data Analytics** in a simple, engaging, and beginner-friendly manner. The application uses **Google Gemini AI** to generate explanations, real-life examples, quizzes, and answer student queries.
 
+#LIVE APPLICATION : https://aibuddytutor-df9af7iuhajqjnccn3qezl.streamlit.app/
+
 ## ✨ Features
 
 - 📖 Explain any concepts in simple language
