@@ -20,7 +20,7 @@ with st.sidebar:
     st.markdown("""
 ### 👩‍💻 About
 
-This AI Learning Buddy helps students learn **Data Analytics** through:
+This AI Learning Buddy helps students learn **EASILY** through:
 
 - 📖 Concept Explanations
 - 🌍 Real-Life Examples
@@ -29,7 +29,7 @@ This AI Learning Buddy helps students learn **Data Analytics** through:
 
 ---
 **Developed by:**  
-**Sanjana Althi**
+**Althi Sanjana**
 
 **Capstone Project**  
 Infosys Springboard AI EMPOW(H)ER Program
@@ -42,7 +42,7 @@ st.markdown(
     """
 Welcome! 👋
 
-I'm **Sanjana**, your AI Study Buddy for **Data Analytics**.
+I'm **Sanjana**, your AI Study Buddy.
 
 Choose an activity below, enter a topic, and I'll help you learn in a simple and interactive way.
 """
@@ -119,5 +119,5 @@ Each question should contain:
 st.divider()
 
 st.caption(
-    "🎓 Built by Sanjana Althi | Capstone Project | Infosys Springboard AI EMPOW(H)ER Program"
+    "🎓 Built by Althi Sanjana | Capstone Project | Infosys Springboard AI EMPOW(H)ER Program"
 )
